@@ -1,2 +1,2 @@
 # Learning Python
- Shared learning Python Content
+ Shared Python learning Content
